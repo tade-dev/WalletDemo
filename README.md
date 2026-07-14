@@ -10,15 +10,15 @@ Tap **Add to Apple Wallet**, PassKit renders the pass preview, confirm, and it l
 
 The full flow from tapping the button to the pass appearing in Wallet.
 
-https://github.com/tade-dev/WalletDemo/raw/main/media/add-to-wallet.mp4
+![Adding a pass to Apple Wallet](./media/add-to-wallet.gif)
 
 ### 2. Passes in my Apple Wallet
 
 A look at the passes I've collected in Wallet.
 
-https://github.com/tade-dev/WalletDemo/raw/main/media/wallet-passes.mp4
+![Passes in Apple Wallet](./media/wallet-passes.gif)
 
-> If the videos don't play inline on GitHub, they're also available directly in [`media/`](./media).
+> Prefer the original recordings (with audio)? They're in [`media/`](./media) as `.mp4`.
 
 ## How it works
 
